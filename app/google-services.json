@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "250591930753",
+    "firebase_url": "https://simpleblog-263ff.firebaseio.com",
+    "project_id": "simpleblog-263ff",
+    "storage_bucket": "simpleblog-263ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250591930753:android:9ca5531bfcc6d8c5",
+        "android_client_info": {
+          "package_name": "com.example.elsayedfahmy_pc.simpleblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250591930753-e9nj5sjun8udtbujeje2q0s707aq522u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elsayedfahmy_pc.simpleblog",
+            "certificate_hash": "9230186ed357a08dba8a25632472a5017ce4ea8e"
+          }
+        },
+        {
+          "client_id": "250591930753-gh070ggu6pt1no3jrruut0lhn15t9f4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ZTtMSxFRYaAxKF6NsXwwApsBHIOrvCw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250591930753-gh070ggu6pt1no3jrruut0lhn15t9f4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

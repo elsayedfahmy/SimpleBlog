@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SimpleBlog</string>
+    <string name="post_title">Post Title</string>
+    <string name="post_description">Post Descriptopn</string>
+    <string name="username_hint">User Name</string>
+    <string name="password_hint">Pass Word</string>
+    <string name="register">Register </string>
+    <string name="email">Email address </string>
+    <string name="logout">Log Out </string>
+    <string name="login">Log In </string>
+    <string name="newaccount"> A New Account </string>
+    <string name="addpost">Add Post </string>
+    <string name="setupName">enter your Display Name</string>
+    <string name="setup">Finish SetUp</string>
+    <string name="userName">User Name</string>
+</resources>
